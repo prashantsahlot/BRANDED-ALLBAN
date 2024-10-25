@@ -33,7 +33,7 @@ HELP_MSG="""
 
 ⨷/unpinall : ᴜɴᴘɪɴ ᴀʟʟ ᴍᴇssᴀɢᴇs ɪɴ ᴀ ɢʀᴏᴜᴘ.
 
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [ʙʀᴀɴᴅᴇᴅ ᴋɪɴɢ](https://t.me/BRANDEDKING82)
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ: [Frozen](https://t.me/FroZzeN_xD)
 """
 
 
